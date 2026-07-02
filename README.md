@@ -1,7 +1,7 @@
 # M E R G E - JavaFX Puzzle Game
 
 A classic puzzle game developed using Java and JavaFX.
-![Uploading 11.png…]()
+![Game Screenshot](11.png)
 
 ## Overview
 A grid-based logic puzzle game where players merge dice to achieve the highest score. This project was created to practice GUI development, object-oriented programming (OOP), and event handling in Java.
