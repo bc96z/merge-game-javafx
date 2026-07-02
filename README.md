@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-# merge-game-javafx
-A puzzle game built with Java and JavaFX, featuring dynamic dice merging mechanics
-
->>>>>>> 5f997b36676dd2f680e25ea9b2a3bb12c1d039ec
 # M E R G E - JavaFX Puzzle Game
 
 A classic puzzle game developed using Java and JavaFX.
@@ -30,9 +24,5 @@ A grid-based logic puzzle game where players merge dice to achieve the highest s
 ## Status
 This is a legacy project and is currently archived. It serves as a historical record of my early Java development studies.
 
----
-<<<<<<< HEAD
 *Developed by CHOU*
-=======
-*Developed by CHOU*
->>>>>>> 5f997b36676dd2f680e25ea9b2a3bb12c1d039ec
+
